@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /wp-
+Disallow: /tag/
+Disallow: */trackback
+Disallow: */page
+Disallow: /author/*
+Disallow: /template.html
+Disallow: /readme.html
+Disallow: *?replytocom
+Allow: */uploads
+Allow: *.js
+Allow: *.css
+Allow: *.png
+Allow: *.gif
+Allow: *.jpg
+Sitemap: https://dizel-zip.ru/sitemap.xml
